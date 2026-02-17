@@ -1,4 +1,4 @@
-<h1 align="center">Mallesh</h1>
+<h1 align="center"> Pichikka.Soma Sai Mallesh</h1>
 <h3 align="center">Mechanical Engineer → Software Engineer in Progress 🚀</h3>
 
 ---
@@ -30,10 +30,9 @@ I don’t just write code — I design flow.
 
 ## 💻 Technical Arsenal
 
-### Programming
+### Languages
 - Python  
-- JavaScript  
-- TypeScript  
+- Django 
 - SQL  
 
 ### Frontend
@@ -43,7 +42,6 @@ I don’t just write code — I design flow.
 
 ### Backend
 - Node.js  
-- Express.js  
 - REST APIs  
 - MongoDB / MySQL  
 
